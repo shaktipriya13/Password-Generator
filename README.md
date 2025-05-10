@@ -68,9 +68,3 @@ src/
 - Add **dark/light theme toggle**
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](https://chatgpt.com/c/LICENSE).
-
----
