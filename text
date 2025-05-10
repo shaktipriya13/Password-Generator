@@ -1,0 +1,13 @@
+Projects me past knowledge use kia jata ha ,isliye jyada quality projects banana is vimp.
+
+here we are going to use memoization concept of dsa where we will optimize performance by changing only those things which are actulaly changed without rerendering the whole page
+
+jitni chizo ko hum yad rkh ske toh its our benefit
+
+button of number,chars and slider are the dependencies jinko alter krne se pura password gets changed ..so its a hook
+
+jab bhi state change hoti ha keval whi componnt rerender hota ha jisme changes hue ha
+
+
+useCallback me ek fxn and ek dependency array is passed
+
